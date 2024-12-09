@@ -275,9 +275,9 @@
   {
     "objectID": "resume.html",
     "href": "resume.html",
-    "title": "Isaac Newtons’s CV",
+    "title": "Resume: Jarom Bradshaw",
     "section": "",
-    "text": "Physicist, Mathematician, Cambridge professor.\n\nisaac@applesdofall.org | My wikipedia page\n\n\n\nStanding on the shoulders of giants\n\n\nLaws of motion, gravitation, minting coins, disliking Robert Hooke\n\n\n\nCooling, power series, optics, alchemy, planetary motions, apples.\n\n\n\n\n1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow\n\n\n\n\n2012 President, Royal Society, London, UK\nAssociate, French Academy of Science, Paris, France\n\n\n\n\n\n\n1669 Newton Sir I, De analysi per æquationes numero terminorum infinitas.\n1669 Lectiones opticæ.\netc. etc. etc.\n\n\n\n2012 Infinitesimal calculus for solutions to physics problems, SMBC patent 001\n\n\n\n\n1600 Royal Mint, London\n\nWarden\nMinted coins\n\n1600 Lucasian professor of Mathematics, Cambridge University"
+    "text": "Rexburg, Idaho, USA\nEmail | LinkedIn | 859-420-4178\n\n\n\nSoftware developer with a minor in statistics, experienced in data collection, analysis, and visualization. Skilled in Python, SQL, and data processing, seeking to leverage technical and analytical expertise to build scalable, impactful solutions.\n\n\n\n\n\n\nData Science Society\nSeptember 2024 - Present, Rexburg, Idaho\n\nLed a 12-week bootcamp, teaching foundational programming concepts to four participants through weekly one-hour sessions.\n\nDeveloping a full-stack application simulating a blood donation center, managing a database of 300+ records while mentoring participants on programming principles.\n\nProvided individual guidance, receiving positive feedback from 75% of participants for improving their understanding of MySQL and software development.\n\nFacilitated brainstorming sessions, fostering collaboration to refine solutions and successfully meet tight deadlines.\n\n\n\n\nThe Church of Jesus Christ of Latter-day Saints Mission Office\nFebruary 2023 - August 2023, Rio de Janeiro, Brazil\n\nFacilitated communication between mission leadership, 120+ missionaries, and vendors, ensuring seamless IT support and operational efficiency.\n\nTrained leaders on cell-phone audits, increasing compliance by 5% and identifying unauthorized software use.\n\nNegotiated deals with tech vendors, reducing technology purchase costs by 50% and saving over 1,000 Reals on large-scale cell-phone repairs for 60+ devices.\n\nDesigned and optimized Excel tools to analyze key performance metrics, supporting data-driven decisions on baptisms and new teachings.\n\nEngineered a maintainable IT framework utilizing Microsoft SharePoint, streamlining document management and increasing retrieval speed by 40%.\n\n\n\n\n\n\n\n\nThe Church of Jesus Christ of Latter-day Saints\nMarch 2023 - May 2023\n\nResearched and implemented spreadsheet automation techniques to streamline real-time missionary data tracking for 50+ missionary companionships.\n\nImproved data accuracy and operational efficiency by 25%, enabling better decision-making under tight deadlines.\n\nDeveloped automated workflows accessible to mission leaders, reducing manual effort by 40% and saving hours of processing time each week.\n\n\n\n\n\n\nComputer Science | Emphasis in Machine Learning, Minor in Statistics\nBrigham Young University - Idaho\nSeptember 2023 - July 2026 (Expected)\n\nSophomore Fall/Winter Track employed as a full-time student, consistently completing 16-19 credits per semester.\n\n\n\n\n\n\nComputer Programming Certificate (Expected Completion: March 2025)\n\nProficient in Object-Oriented Programming, front-end development, and computer fundamentals.\n\n\n\n\n\n\n\n\nBrigham Young University - Idaho | Computer Science Tutoring Lab\nSeptember 2023 - December 2023\n\nTutored 5-10 students weekly, guiding them through programming concepts to improve foundational skills.\n\nGuided 1-3 students weekly through programming concepts, simplifying terms to improve understanding and boosting assignment completion rates by 20%.\n\nReviewed assignments and projects for at least 4 students per month, successfully debugging 90% of issues in student code and database queries.\n\n\n\n\n\n\n\nProgramming Languages: Python (Intermediate), SQL (Intermediate-Advanced, MySQL), C# (Intermediate)\n\nProgramming Paradigms: Object-Oriented Programming (Intermediate), Functional Programming (Beginner)\n\nData Manipulation & Analysis: Python libraries (Pandas, NumPy – Beginner)\n\nData Visualization: Tableau (Beginner), Lets-Plot (Intermediate)\n\nDatabases & Frameworks: MySQL (Intermediate-Advanced), Database Design, Query Optimization, OSINT Framework (Beginner)\n\nLanguage Skills: Fluent in Portuguese; native-level proficiency in English"
   },
   {
     "objectID": "resume.html#currently",
@@ -289,9 +289,9 @@
   {
     "objectID": "resume.html#education",
     "href": "resume.html#education",
-    "title": "Isaac Newtons’s CV",
+    "title": "Resume: Jarom Bradshaw",
     "section": "",
-    "text": "1654-1660 The King’s School, Grantham.\nJune 1661 - now Trinity College, Cambridge\n\nSizar\n\n1667 - death Trinity College, Cambridge\n\nFellow"
+    "text": "Computer Science | Emphasis in Machine Learning, Minor in Statistics\nBrigham Young University - Idaho\nSeptember 2023 - July 2026 (Expected)\n\nSophomore Fall/Winter Track employed as a full-time student, consistently completing 16-19 credits per semester."
   },
   {
     "objectID": "resume.html#awards",
@@ -484,5 +484,47 @@
     "crumbs": [
       "Full Stack"
     ]
+  },
+  {
+    "objectID": "resume.html#summary",
+    "href": "resume.html#summary",
+    "title": "Resume: Jarom Bradshaw",
+    "section": "",
+    "text": "Software developer with a minor in statistics, experienced in data collection, analysis, and visualization. Skilled in Python, SQL, and data processing, seeking to leverage technical and analytical expertise to build scalable, impactful solutions."
+  },
+  {
+    "objectID": "resume.html#experience",
+    "href": "resume.html#experience",
+    "title": "Resume: Jarom Bradshaw",
+    "section": "",
+    "text": "Data Science Society\nSeptember 2024 - Present, Rexburg, Idaho\n\nLed a 12-week bootcamp, teaching foundational programming concepts to four participants through weekly one-hour sessions.\n\nDeveloping a full-stack application simulating a blood donation center, managing a database of 300+ records while mentoring participants on programming principles.\n\nProvided individual guidance, receiving positive feedback from 75% of participants for improving their understanding of MySQL and software development.\n\nFacilitated brainstorming sessions, fostering collaboration to refine solutions and successfully meet tight deadlines.\n\n\n\n\nThe Church of Jesus Christ of Latter-day Saints Mission Office\nFebruary 2023 - August 2023, Rio de Janeiro, Brazil\n\nFacilitated communication between mission leadership, 120+ missionaries, and vendors, ensuring seamless IT support and operational efficiency.\n\nTrained leaders on cell-phone audits, increasing compliance by 5% and identifying unauthorized software use.\n\nNegotiated deals with tech vendors, reducing technology purchase costs by 50% and saving over 1,000 Reals on large-scale cell-phone repairs for 60+ devices.\n\nDesigned and optimized Excel tools to analyze key performance metrics, supporting data-driven decisions on baptisms and new teachings.\n\nEngineered a maintainable IT framework utilizing Microsoft SharePoint, streamlining document management and increasing retrieval speed by 40%."
+  },
+  {
+    "objectID": "resume.html#projects",
+    "href": "resume.html#projects",
+    "title": "Resume: Jarom Bradshaw",
+    "section": "",
+    "text": "The Church of Jesus Christ of Latter-day Saints\nMarch 2023 - May 2023\n\nResearched and implemented spreadsheet automation techniques to streamline real-time missionary data tracking for 50+ missionary companionships.\n\nImproved data accuracy and operational efficiency by 25%, enabling better decision-making under tight deadlines.\n\nDeveloped automated workflows accessible to mission leaders, reducing manual effort by 40% and saving hours of processing time each week."
+  },
+  {
+    "objectID": "resume.html#certifications",
+    "href": "resume.html#certifications",
+    "title": "Resume: Jarom Bradshaw",
+    "section": "",
+    "text": "Computer Programming Certificate (Expected Completion: March 2025)\n\nProficient in Object-Oriented Programming, front-end development, and computer fundamentals."
+  },
+  {
+    "objectID": "resume.html#involvement",
+    "href": "resume.html#involvement",
+    "title": "Resume: Jarom Bradshaw",
+    "section": "",
+    "text": "Brigham Young University - Idaho | Computer Science Tutoring Lab\nSeptember 2023 - December 2023\n\nTutored 5-10 students weekly, guiding them through programming concepts to improve foundational skills.\n\nGuided 1-3 students weekly through programming concepts, simplifying terms to improve understanding and boosting assignment completion rates by 20%.\n\nReviewed assignments and projects for at least 4 students per month, successfully debugging 90% of issues in student code and database queries."
+  },
+  {
+    "objectID": "resume.html#skills",
+    "href": "resume.html#skills",
+    "title": "Resume: Jarom Bradshaw",
+    "section": "",
+    "text": "Programming Languages: Python (Intermediate), SQL (Intermediate-Advanced, MySQL), C# (Intermediate)\n\nProgramming Paradigms: Object-Oriented Programming (Intermediate), Functional Programming (Beginner)\n\nData Manipulation & Analysis: Python libraries (Pandas, NumPy – Beginner)\n\nData Visualization: Tableau (Beginner), Lets-Plot (Intermediate)\n\nDatabases & Frameworks: MySQL (Intermediate-Advanced), Database Design, Query Optimization, OSINT Framework (Beginner)\n\nLanguage Skills: Fluent in Portuguese; native-level proficiency in English"
   }
 ]

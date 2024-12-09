@@ -1,89 +1,95 @@
 ---
-layout: cv
-title: Isaac Newtons's CV
+title: "CV: Jarom Bradshaw"
+author: "Jarom Bradshaw"
+date: "Last Updated: December 9 2024"
+format: html
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
 
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
+# Jarom Bradshaw  
+Rexburg, Idaho, USA  
+[Email](mailto:jarombrads@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jarom-bradshaw) | 859-420-4178  
 
+---
 
-## Currently
+## SUMMARY
 
-Standing on the shoulders of giants
+Software developer with a minor in statistics, experienced in data collection, analysis, and visualization. Skilled in Python, SQL, and data processing, seeking to leverage technical and analytical expertise to build scalable, impactful solutions.
 
-### Specialized in
+---
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+## EXPERIENCE
 
+### **Project Manager**  
+**Data Science Society**  
+*September 2024 - Present, Rexburg, Idaho*  
 
-### Research interests
+- Led a 12-week bootcamp, teaching foundational programming concepts to four participants through weekly one-hour sessions.  
+- Developing a full-stack application simulating a blood donation center, managing a database of 300+ records while mentoring participants on programming principles.  
+- Provided individual guidance, receiving positive feedback from 75% of participants for improving their understanding of MySQL and software development.  
+- Facilitated brainstorming sessions, fostering collaboration to refine solutions and successfully meet tight deadlines.  
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+### **Technology Secretary, LDS Mission Office**  
+**The Church of Jesus Christ of Latter-day Saints Mission Office**  
+*February 2023 - August 2023, Rio de Janeiro, Brazil*  
 
+- Facilitated communication between mission leadership, 120+ missionaries, and vendors, ensuring seamless IT support and operational efficiency.  
+- Trained leaders on cell-phone audits, increasing compliance by 5% and identifying unauthorized software use.  
+- Negotiated deals with tech vendors, reducing technology purchase costs by 50% and saving over 1,000 Reals on large-scale cell-phone repairs for 60+ devices.  
+- Designed and optimized Excel tools to analyze key performance metrics, supporting data-driven decisions on baptisms and new teachings.  
+- Engineered a maintainable IT framework utilizing Microsoft SharePoint, streamlining document management and increasing retrieval speed by 40%.  
 
-## Education
+---
 
-`1654-1660`
-__The King's School, Grantham.__
+## PROJECTS
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+### **Real-Time Missionary Data Tracking System**  
+**The Church of Jesus Christ of Latter-day Saints**  
+*March 2023 - May 2023*  
 
-- Sizar
+- Researched and implemented spreadsheet automation techniques to streamline real-time missionary data tracking for 50+ missionary companionships.  
+- Improved data accuracy and operational efficiency by 25%, enabling better decision-making under tight deadlines.  
+- Developed automated workflows accessible to mission leaders, reducing manual effort by 40% and saving hours of processing time each week.  
 
-`1667 - death`
-__Trinity College, Cambridge__
+---
 
-- Fellow
+## EDUCATION
 
+**Computer Science** | *Emphasis in Machine Learning, Minor in Statistics*  
+**Brigham Young University - Idaho**  
+*September 2023 - July 2026 (Expected)*  
 
+- Sophomore Fall/Winter Track employed as a full-time student, consistently completing 16-19 credits per semester.  
 
-## Awards
+---
 
-`2012`
-President, *Royal Society*, London, UK
+## CERTIFICATIONS
 
-Associate, *French Academy of Science*, Paris, France
+- **Computer Programming Certificate** (Expected Completion: March 2025)  
+    - Proficient in Object-Oriented Programming, front-end development, and computer fundamentals.  
 
+---
 
+## INVOLVEMENT
 
-## Publications
+### **Tutor**  
+**Brigham Young University - Idaho** | *Computer Science Tutoring Lab*  
+*September 2023 - December 2023*  
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+- Tutored 5-10 students weekly, guiding them through programming concepts to improve foundational skills.  
+- Guided 1-3 students weekly through programming concepts, simplifying terms to improve understanding and boosting assignment completion rates by 20%.  
+- Reviewed assignments and projects for at least 4 students per month, successfully debugging 90% of issues in student code and database queries.  
 
-### Journals
+---
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+## SKILLS
 
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+- **Programming Languages**: Python (Intermediate), SQL (Intermediate-Advanced, MySQL), C# (Intermediate)  
+- **Programming Paradigms**: Object-Oriented Programming (Intermediate), Functional Programming (Beginner)  
+- **Data Manipulation & Analysis**: Python libraries (Pandas, NumPy – Beginner)  
+- **Data Visualization**: Tableau (Beginner), Lets-Plot (Intermediate)  
+- **Databases & Frameworks**: MySQL (Intermediate-Advanced), Database Design, Query Optimization, OSINT Framework (Beginner)  
+- **Language Skills**: Fluent in Portuguese; native-level proficiency in English 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: January 2025 -->
